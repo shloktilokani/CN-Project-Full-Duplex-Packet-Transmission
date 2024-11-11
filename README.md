@@ -11,6 +11,4 @@ Tools and Technologies :
   
   -> TinkerCAD
 
-  -> Soldering
-
   -> Serial Monitor Mobile App
